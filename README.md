@@ -14,4 +14,5 @@ today is tuesday
 6
 7
 7
+Hi today date is 30-jul-2025
 
